@@ -1,0 +1,23 @@
+.carousel-caption{
+    background-color:#FFF2D5;
+    text-align: center;
+    opacity: 90%;
+    width: 100%;
+}
+.carousel-caption h3,p{
+    color: #555555;
+}
+
+.carousel-item{
+    padding-bottom: 120px;
+}
+
+a{
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+
+
+
