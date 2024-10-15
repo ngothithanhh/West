@@ -1,8 +1,9 @@
-.carousel-caption{
+.carousel-caption {
+    position: static !important;
     background-color:#FFF2D5;
     text-align: center;
     opacity: 90%;
-    width: 100%;
+    /* width: 100%; */
 }
 .carousel-caption h3,p{
     color: #555555;
@@ -15,9 +16,4 @@
 a{
     text-transform: uppercase;
     font-weight: bold;
-    
 }
-
-
-
-
